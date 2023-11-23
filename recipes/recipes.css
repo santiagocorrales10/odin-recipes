@@ -1,0 +1,30 @@
+html{
+    background-color:antiquewhite;
+    text-align: center;}
+
+.titulo{
+    color: aqua;
+    font-size: xxx-large;}
+
+.descripcion{
+    color: rgb(185, 133, 233);}
+
+.ingredientes{
+    color: rgb(250, 170, 112);
+}
+li{
+    list-style: armenian    ;
+    text-align: start;}
+
+p{
+    text-decoration: dotted;
+    padding-left: 160px;
+    padding-right: 160px;
+}
+.Pasos{color: lightpink;}
+
+.texto1{font-family: 'Times New Roman', Times, serif;
+font-weight: 900;}
+li:hover{
+    color: gray;
+}
